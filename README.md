@@ -34,6 +34,7 @@ Performance was acceptable across all parameters
 Model link:
 https://drive.google.com/file/d/1mjG0MAQtxmNDf5ROiv6QoNiCb1s6Iw1C/view?usp=sharing
 
+
 Internship Details
 Internship Type: AICTE Virtual Internship - Edunet Foundation
 Sponsor: Shell
